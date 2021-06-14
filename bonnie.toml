@@ -1,0 +1,7 @@
+[scripts]
+pdf.cmd = "pandoc --filter pandoc-citeproc --pdf-engine=xelatex --number-sections --template template.tex -t latex -V mainfont=\"%font\" -s pandoc.yml header.yml main.md -o %output.pdf"
+pdf.args = [
+	"font",
+	"output"
+]
+compile = "bonnie pdf \"Times New Roman\" Paper"

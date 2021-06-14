@@ -1,0 +1,19 @@
+---
+include-before: |
+    # Abstract {-}
+    
+    The third century AD was a period of great instability in the Roman Empire, particularly involving the debasement of the coinage from nearly pure silver to mostly bronze. This study aimed to date six Roman *antoniniani* from the third century and link them to this broader trend by using typological analysis to estimate date and XRF and Raman spectrometry, as well as XRF mapping technology, to analyse the compositions of each coin. It was expected that the generally accepted trend of debasement would be proven, and it indeed was, showing that the coinage was indeed debased at an extraordinary rate over the third century, resulting in impure and low-quality currency that led to rampant inflation and contributed to the demise of the Western Roman empire. This analysis also shed light on the concentrations of lead and tin in *antoniniani*, a largely unexplored inquiry, showing the change in the concentrations of metals beyond just silver and copper. By understanding these trends in the compositions of third century Roman coins, we can better understand the nature of the economic crisis which Rome underwent in the period, allowing a greater understanding of some of the factors that led to its collapse.
+    
+    \newpage
+    
+    # Acknowledgments {-}
+    I would like to sincerely thank the following people for their help with this project:
+    
+    - Dr. Sheridan of Sydney Grammar School for her organisation of this project and expert assistance on the scientific aspects of the project
+    - Dr. Dearn of Sydney Grammar School for his organisation of this project and expert assistance on the archaeological aspects of the project and in identifying features of the coins themselves
+    - Dr. Kelloway of Sydney University for her assistance in the operation of the XRF spectrometer and with data interpretation and analysis
+    - Dr. Ahmed of Sydney University for his assistance in the operation of the Raman spectrometers
+    - Dr. Stevens of Sydney Grammar School for his organisation and support of the SAC
+    - Dr. Malpass of Sydney Grammar School for his support of the SAC
+    - John Story, my colleague in the SAC, for his generous processing of XRF mapping data
+---
