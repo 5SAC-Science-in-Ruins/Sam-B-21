@@ -1,6 +1,6 @@
 ---
 title: Mint Impurity Analysis
-subtitle: Supplementary Material to [REPORT TITLE TODO]
+subtitle: Supplementary Material to The Debasement of the Roman Coinage in the 3rd Century
 author: Samuel Brew
 ---
 
