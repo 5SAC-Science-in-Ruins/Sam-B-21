@@ -4,4 +4,4 @@ pdf.args = [
 	"font",
 	"output"
 ]
-compile = "bonnie pdf \"Times New Roman\" Paper"
+compile = "bonnie pdf \"Times New Roman\" Paper && mv Paper.pdf \"Brew – The Debasement of the Roman Coinage in the 3rd Century.pdf\""
