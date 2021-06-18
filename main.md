@@ -276,12 +276,10 @@ The following are the graphs for the concentration of each major metal over esti
 
 ## Appendix 6 -- Raw Data
 
-The following are the links to all raw data, available in the GitHub repository at <https://github.com/22sgb/Sam-B-21>.
+The following are the links to all raw data, available in the GitHub repository at <https://github.com/5SAC-Science-in-Ruins/Sam-B-21>.
 
-- Raw XRF and Raman Data and Spectra: <https://github.com/22sgb/Sam-B-21/blob/b90847b51e23ef902ad92956d82d175da6faca22/data/All%20Data.xlsx>
-- XRF Concentration Analysis and Graphs: <https://github.com/22sgb/Sam-B-21/blob/b90847b51e23ef902ad92956d82d175da6faca22/data/XRF%20Concentration%20Analysis.xlsx>
-- Raw XRF Mapping Data: <https://github.com/22sgb/Sam-B-21/blob/b90847b51e23ef902ad92956d82d175da6faca22/data/XRF%20Mapping%20Data.csv>
-- Typological Dating Notes: <https://github.com/22sgb/Sam-B-21/blob/b90847b51e23ef902ad92956d82d175da6faca22/data/Typological%20Dating%20Notes.md>
-- Mint Impurity Analysis (unsuccessful): <https://github.com/22sgb/Sam-B-21/blob/d1a9c7fae134189251bcaab58277fef28b5c6f1e/data/Mint%20Impurity%20Analysis.md>
-
-**Supplemental note:** these links are to a personal GitHub repository, which will be soon revised to one on the GitHub organisation of the SAC.
+- Raw XRF and Raman Data and Spectra: <https://github.com/5SAC-Science-in-Ruins/Sam-B-21/blob/c050f4a651fef8781aceaca5c5a23cd56fef3b5b/data/All%20Data.xlsx>
+- XRF Concentration Analysis and Graphs: <https://github.com/5SAC-Science-in-Ruins/Sam-B-21/blob/c050f4a651fef8781aceaca5c5a23cd56fef3b5b/data/XRF%20Concentration%20Analysis.xlsx>
+- Raw XRF Mapping Data: <https://github.com/5SAC-Science-in-Ruins/Sam-B-21/blob/c050f4a651fef8781aceaca5c5a23cd56fef3b5b/data/XRF%20Mapping%20Data.csv>
+- Typological Dating Notes: <https://github.com/5SAC-Science-in-Ruins/Sam-B-21/blob/c050f4a651fef8781aceaca5c5a23cd56fef3b5b/data/Typological%20Dating%20Notes.md>
+- Mint Impurity Analysis (unsuccessful): <https://github.com/5SAC-Science-in-Ruins/Sam-B-21/blob/c050f4a651fef8781aceaca5c5a23cd56fef3b5b/data/Mint%20Impurity%20Analysis.md>
